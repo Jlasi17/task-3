@@ -90,5 +90,3 @@ npm run dev
 
 ![Delete Task](screenshots/delete-task.png)
 → Demonstrates successful deletion of a specific task using its unique ID.
-
----
