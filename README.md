@@ -18,12 +18,12 @@ The Task Manager system allows users to:
 
 ## Features
 
-- 🎯 Task creation, update, and deletion
-- ⚙️ Command execution with live output
-- 🔍 Search tasks by name
-- 💾 Integration with backend REST API
-- 🧑‍💻 Elegant and responsive Ant Design interface
-- 🧭 Closeable execution results panel
+- Task creation, update, and deletion
+- Command execution with live output
+- Search tasks by name
+- Integration with backend REST API
+- Elegant and responsive Ant Design interface
+- Closeable execution results panel
 
 ---
 
@@ -38,7 +38,7 @@ The Task Manager system allows users to:
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 Ensure you have the following installed:
 
@@ -48,7 +48,7 @@ Ensure you have the following installed:
 
 ---
 
-## ⚙️ Setup & Run
+## Setup & Run
 
 ```bash
 # Clone the repository
